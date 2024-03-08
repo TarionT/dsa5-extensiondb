@@ -1,0 +1,335 @@
+{
+  "Kleine Windhose": {
+    "source": [
+      "achaz",
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Sturmruf": {
+    "source": [
+      "achaz",
+      "goetterwirken"
+    ]
+  },
+  "Windhose": {
+    "source": [
+      "achaz",
+      "goetterwirken"
+    ]
+  },
+  "Geist des Strategen": {
+    "source": [
+      "bannerofloyalty"
+    ]
+  },
+  "Schutz der Hornissenkönigin": {
+    "source": [
+      "bannerofloyalty"
+    ]
+  },
+  "Speer des Athleten": {
+    "source": [
+      "bannerofloyalty"
+    ]
+  },
+  "Bann des Lichts": {
+    "source": [
+      "core"
+    ]
+  },
+  "Fall ins Nichts": {
+    "source": [
+      "core"
+    ]
+  },
+  "Friedvolle Aura": {
+    "source": [
+      "core"
+    ]
+  },
+  "Giftbann": {
+    "source": [
+      "core"
+    ]
+  },
+  "Heilsegen": {
+    "source": [
+      "core"
+    ]
+  },
+  "Krankheitsbann": {
+    "source": [
+      "core"
+    ]
+  },
+  "Magiesicht": {
+    "source": [
+      "core"
+    ]
+  },
+  "Mondsicht": {
+    "source": [
+      "core"
+    ]
+  },
+  "Objektsegen": {
+    "source": [
+      "core"
+    ]
+  },
+  "Ort der Ruhe": {
+    "source": [
+      "core"
+    ]
+  },
+  "Schlangenstab": {
+    "source": [
+      "core"
+    ]
+  },
+  "Wahrheit": {
+    "source": [
+      "core"
+    ]
+  },
+  "Der Schleier des Nebels": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Raschas Blutkelch": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Tafel der Lumnianer": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Bann der göttlichen Gaben": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Besänftigung": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Dämonenwall": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Erdbeben": {
+    "source": [
+      "goetterwirken",
+      "riverlands"
+    ]
+  },
+  "Feuerwall": {
+    "source": [
+      "goetterwirken",
+      "orcs",
+      "riverlands"
+    ]
+  },
+  "Froststurm": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Göttliche Klinge": {
+    "source": [
+      "goetterwirken",
+      "winterwatch"
+    ]
+  },
+  "Heilsame Quelle": {
+    "source": [
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Liturgieschild": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Opfergang": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Schleichende Fäulnis": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Schwindende Zauberkraft": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Unterwasseratmung": {
+    "source": [
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Versteinerung": {
+    "source": [
+      "goetterwirken",
+      "riverlands"
+    ]
+  },
+  "Doppelgänger": {
+    "source": [
+      "goetterwirken2",
+      "realmofthethorns"
+    ]
+  },
+  "Entstelltes Antlitz": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Erregender Rausch": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Erwachen": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Gnadenstoß": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Göttlicher Rausch": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Kampfgeschick": {
+    "source": [
+      "goetterwirken2",
+      "winterwatch"
+    ]
+  },
+  "Krankheiten vorbeugen": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Schattenfessel": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Schonfrist": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Sicht in der Dunkelheit": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Vampirische Kräfte": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Wand wider Dämonen": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Zwergenmacht": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Blick auf den Meeresgrund": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Botschaft aus der Tiefe": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Ertrinken": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Furchtresistenz": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Numinorus Fesseln": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Quallenhaut": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Schiffsgespür": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Unsichtbare Flut": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Nebelkrähenschwarm": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Ogerruf": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Erzene Opfergabe": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Gebieter der Flammen": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Herr der Flammen": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Steinhaut": {
+    "source": [
+      "riverlands"
+    ]
+  }
+}

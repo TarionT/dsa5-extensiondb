@@ -1,0 +1,110 @@
+{
+  "Aggressiv": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Eigenwillig": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Kläffer": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Nervös": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Starre": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Giftanfällig": {
+    "source": [
+      "core"
+    ]
+  },
+  "Krankheitsanfällig": {
+    "source": [
+      "core"
+    ]
+  },
+  "Lichtempfindlich": {
+    "source": [
+      "core"
+    ]
+  },
+  "Schlafwandler": {
+    "source": [
+      "core"
+    ]
+  },
+  "Sensibler Geruchssinn": {
+    "source": [
+      "core"
+    ]
+  },
+  "Wahrer Name": {
+    "source": [
+      "core"
+    ]
+  },
+  "Zauberanfällig": {
+    "source": [
+      "core"
+    ]
+  },
+  "Empfindlichkeit (unedle Metalle)": {
+    "source": [
+      "klingendernacht"
+    ]
+  },
+  "Instabiler Zauberer": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Schwache Zaubermelodien": {
+    "source": [
+      "magie1",
+      "suncoast"
+    ]
+  },
+  "Schwache Zaubertänze": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Verminderte Zaubermelodien": {
+    "source": [
+      "magie1",
+      "sevenwindscoast",
+      "suncoast"
+    ]
+  },
+  "Verminderte Zaubertänze": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Unverträglichkeit gegenüber Alkohol": {
+    "source": [
+      "mastertools"
+    ]
+  },
+  "Böser Namensvetter": {
+    "source": [
+      "mastertools"
+    ]
+  },
+  "Scholar/Scholarin (Magischer Rang)": {
+    "source": [
+      "studyroom"
+    ]
+  }
+}

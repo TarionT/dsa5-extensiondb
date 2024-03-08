@@ -1,0 +1,324 @@
+{
+  "Typische/-r Achaz": {
+    "source": [
+      "achaz"
+    ]
+  },
+  "Östliche Echsensümpfe": {
+    "source": [
+      "achaz"
+    ]
+  },
+  "Regengebirge": {
+    "source": [
+      "achaz",
+      "steamingjungles"
+    ]
+  },
+  "Zansch’Jrr": {
+    "source": [
+      "achaz"
+    ]
+  },
+  "Zzzt": {
+    "source": [
+      "achaz"
+    ]
+  },
+  "Östliches Kalifat (Novadis und Thalushim)": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Westliches Kalifat (Novadis)": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Raschtulswall (Ferkinas)": {
+    "source": [
+      "desertkingdom"
+    ]
+  },
+  "Havena": {
+    "source": [
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Feldmark": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Krakeninsel": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Marschen": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Nalleshof": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Unterfluren": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Dämmerberge": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Finsterberge": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Korogai": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Orichai": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Tscharshai": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Baburien": {
+    "source": [
+      "realmofthethorns"
+    ]
+  },
+  "Gorien": {
+    "source": [
+      "realmofthethorns"
+    ]
+  },
+  "Ambosszwerge": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Erzzwerge": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Hügelzwerge": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Typische/r Koscher/in": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Typische/r Nordmärker/in": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Elenviner Ebene & Tal des Großen Flusses": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Ferdoker Land": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Gratenfelser Becken": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Hochkosch und Wengenholmer Land": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Hügellande und Angbarer See": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Nordgratenfels": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Stammland der Zwerge": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Typische/r Windhager/in": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Albernische Küste & Inseln": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Albernisches Seenland": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Altes Land": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Windhagberge": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Winhaller Land": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Pirateninseln": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Waldinseln": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Anoiha": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Baguarak": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Haipu": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Kasam’Utulus": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Keke-Wanaq": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Miniwatu": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Mohaha": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Napewanha": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Rololo": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Shemuhaha": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Tscholuq": {
+    "source": [
+      "steamingjungles"
+    ]
+  },
+  "Chababisches Hinterland": {
+    "source": [
+      "suncoast"
+    ]
+  },
+  "Ingvaltal": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Seenland": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Siebenwindküste": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Steineichenwald": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Thuranien": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Tommellande": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Typische/-r Bornländer/-in": {
+    "source": [
+      "winterwatch"
+    ]
+  },
+  "Festenland": {
+    "source": [
+      "winterwatch"
+    ]
+  },
+  "Mark": {
+    "source": [
+      "winterwatch"
+    ]
+  },
+  "Sewerien": {
+    "source": [
+      "winterwatch"
+    ]
+  },
+  "Überwals": {
+    "source": [
+      "winterwatch"
+    ]
+  }
+}

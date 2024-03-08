@@ -1,0 +1,149 @@
+{
+  "Menschenfreund": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Sehnende": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Wanderer": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Schöne der Nacht": {
+    "source": [
+      "magie2",
+      "realmofthethorns"
+    ]
+  },
+  "Schwarze Witwe": {
+    "source": [
+      "magie2",
+      "steamingjungles"
+    ]
+  },
+  "Schwester des Wissens": {
+    "source": [
+      "magie2",
+      "realmofthethorns"
+    ]
+  },
+  "Hofnarr": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Schöpfer": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Vagabund": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Visionär": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Geisterseher": {
+    "source": [
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Klingenmeister": {
+    "source": [
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Zauberkrieger": {
+    "source": [
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Diener der Natur": {
+    "source": [
+      "magie3",
+      "warringkingdoms"
+    ]
+  },
+  "Ehrwürdige": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Elementaranhänger": {
+    "source": [
+      "magie3",
+      "riverlands"
+    ]
+  },
+  "Sumen": {
+    "source": [
+      "magie3",
+      "warringkingdoms"
+    ]
+  },
+  "Ausgeglichene": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Gnome": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Seelenhirten": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Sippenhüterinnen": {
+    "source": [
+      "magie3",
+      "winterwatch"
+    ]
+  },
+  "Traumdeuterinnen": {
+    "source": [
+      "magie3",
+      "winterwatch"
+    ]
+  },
+  "Ausdruckstänzer": {
+    "source": [
+      "realmofthethorns"
+    ]
+  },
+  "Töchter der Inszenierung": {
+    "source": [
+      "realmofthethorns"
+    ]
+  },
+  "Beherrscher des Geistes": {
+    "source": [
+      "riverlands",
+      "warringkingdoms"
+    ]
+  },
+  "Schwestern des Wissens": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Sippenzauberin": {
+    "source": [
+      "winterwatch"
+    ]
+  }
+}

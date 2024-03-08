@@ -1,0 +1,229 @@
+{
+  "Biss": {
+    "source": [
+      "achaz",
+      "orcs",
+      "winterwatch"
+    ]
+  },
+  "Basiliskentöter": {
+    "source": [
+      "bestiary"
+    ]
+  },
+  "Geduldig": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Heldenwuchs": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Kuschelig": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Lernfähig": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Ruhiges Temperament": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Schönes Fell/Gefieder": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Sprungsicher": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Trendeln": {
+    "source": [
+      "companions"
+    ]
+  },
+  "Mystiker": {
+    "source": [
+      "core"
+    ]
+  },
+  "Pragmatiker": {
+    "source": [
+      "core"
+    ]
+  },
+  "Schwer zu verzaubern": {
+    "source": [
+      "core"
+    ]
+  },
+  "Verhüllte Aura": {
+    "source": [
+      "core"
+    ]
+  },
+  "Dschinnenblut (Eisdschinn)": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Dschinnenblut (Feuerdschinn)": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Dschinnenblut (Rosendschinn)": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Dschinnenblut (Wasserdschinn)": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Eiskalte Berührung": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Muttererde": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Rankenfessel": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Unumstößlich": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Wasserheilung": {
+    "source": [
+      "elementarium"
+    ]
+  },
+  "Affinität zu Dämonen": {
+    "source": [
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Affinität zu Elementaren": {
+    "source": [
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Machtvolle Zaubermelodien": {
+    "source": [
+      "magie1",
+      "suncoast"
+    ]
+  },
+  "Machtvolle Zaubertänze": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Weitreichende Zaubermelodien": {
+    "source": [
+      "magie1",
+      "sevenwindscoast",
+      "suncoast"
+    ]
+  },
+  "Weitreichende Zaubertänze": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Unbeschwertes Zaubern": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Wolfskind": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Blutzauberer": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Schnell wieder auf den Beinen": {
+    "source": [
+      "mastertools"
+    ]
+  },
+  "Allerweltsname": {
+    "source": [
+      "mastertools"
+    ]
+  },
+  "Feenblut (Nixer)": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Animalische Kraft": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Blumenduft": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Glatte Haut": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Harmonie des Waldes": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Kraft der Bäume": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Tierische Kampfgefährten": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Verführerische Gestalt": {
+    "source": [
+      "sevenwindscoast"
+    ]
+  },
+  "Hass auf (Andergaster)": {
+    "source": [
+      "warringkingdoms"
+    ]
+  },
+  "Hass auf (Nostrier)": {
+    "source": [
+      "warringkingdoms"
+    ]
+  }
+}

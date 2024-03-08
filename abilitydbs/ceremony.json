@@ -1,0 +1,372 @@
+{
+  "Eidechsengestalt": {
+    "source": [
+      "achaz",
+      "goetterwirken"
+    ]
+  },
+  "Flugechsengestalt": {
+    "source": [
+      "achaz"
+    ]
+  },
+  "Nebelschwaden": {
+    "source": [
+      "achaz",
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Schlangengestalt": {
+    "source": [
+      "achaz",
+      "goetterwirken"
+    ]
+  },
+  "Geweihter Panzer": {
+    "source": [
+      "core"
+    ]
+  },
+  "Löwengestalt": {
+    "source": [
+      "core"
+    ]
+  },
+  "Nebelleib": {
+    "source": [
+      "core"
+    ]
+  },
+  "Objektweihe": {
+    "source": [
+      "core"
+    ]
+  },
+  "Ausbrennen (Purgation)": {
+    "source": [
+      "goetterwirken",
+      "riverlands"
+    ]
+  },
+  "Delphingestalt": {
+    "source": [
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Frostschutz": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Fuchsgestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Gänsegestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Göttliche Erkenntnis": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Greifenruf": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Guter Fang": {
+    "source": [
+      "goetterwirken",
+      "havena",
+      "sevenwindscoast"
+    ]
+  },
+  "Heiliger Schwur": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Herr der Meere": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Inspiration": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Jagdglück": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Kleine Moralstärkung": {
+    "source": [
+      "goetterwirken",
+      "sevenwindscoast"
+    ]
+  },
+  "Liturgieabsorption": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Moralstärkung": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Panthergestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Paradiesvogelgestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Pferdegestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Rabengestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Reisesegen": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Schwanengestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Segnung des Heims": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Sicherer Tritt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Storchengestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Traumbild": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Unbeschwerte Wanderung": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Verblassende Erinnerung": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Waffenfluch": {
+    "source": [
+      "goetterwirken",
+      "suncoast"
+    ]
+  },
+  "Zuflucht": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Zwergwalgestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Eisbärengestalt": {
+    "source": [
+      "goetterwirken"
+    ]
+  },
+  "Elsterngestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Falkengestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Göttliche Präzision": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Heilung von Seelenkranken": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Hundegestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Kriegszustand": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Lebenstausch": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Leichtfüßig": {
+    "source": [
+      "goetterwirken2",
+      "suncoast"
+    ]
+  },
+  "Luchsgestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Marbidenmacht": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Mungogestalt": {
+    "source": [
+      "goetterwirken2",
+      "realmofthethorns"
+    ]
+  },
+  "Schaffenskraft": {
+    "source": [
+      "goetterwirken2",
+      "riverlands"
+    ]
+  },
+  "Schlangenfluch": {
+    "source": [
+      "goetterwirken2",
+      "steamingjungles"
+    ]
+  },
+  "Schmetterlingsgestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Selbstopferung": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Taubengestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Widdergestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Wolfsfluch": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Wolfsgestalt": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Zwergische Verbrüderung": {
+    "source": [
+      "goetterwirken2"
+    ]
+  },
+  "Jaguargestalt": {
+    "source": [
+      "goetterwirken2",
+      "steamingjungles"
+    ]
+  },
+  "Leitende Strömung": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Numinorus Fluch": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Schattenrochengestalt": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Seemonsterruf": {
+    "source": [
+      "havena"
+    ]
+  },
+  "Gnade des Vergessens": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Tairachs machtvolle Erhebung von Untoten": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Blick in die Flammen": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Metallerhitzung": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Weihe des Heims": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Wiederherstellung": {
+    "source": [
+      "riverlands"
+    ]
+  }
+}

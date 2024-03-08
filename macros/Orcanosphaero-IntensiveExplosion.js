@@ -1,11 +1,11 @@
 // transform spell source data object
 
-let effect = source.effects.find(x => x.label == "Archofaxius")
+let origEffect = source.effects.find(x => x.name == "Archofaxius")
 
-if(!effect) return
+if(!origEffect) return
 
-effect = duplicate(effect)
-source.effects = source.effects.filter(x => x.label != "Archofaxius")
+origEffect = duplicate(origEffect)
+source.effects = source.effects.filter(x => x.name != "Archofaxius")
 
 const lang = game.i18n.lang == "de" ? "de" : "en"
 const dict = {
@@ -17,5 +17,5 @@ const dict = {
     }
 }[lang]
 
-effect.flags.dsa5.args3 = `msg += \` \${actor.name} ${dict.msg}.\`;\nawait actor.addCondition(\"prone\")`
-source.effects.push(effect)
+origEffect.flags.dsa5.args3 = `msg += \` \${actor.name} ${dict.msg}.\`;\nawait actor.addCondition(\"prone\")`
+source.effects.push(origEffect)

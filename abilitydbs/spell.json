@@ -1,0 +1,736 @@
+{
+  "Dunkelheit": {
+    "source": [
+      "animatorium",
+      "core",
+      "incorporealhorrors",
+      "magie1"
+    ]
+  },
+  "Favilludo": {
+    "source": [
+      "animatorium",
+      "magie1"
+    ]
+  },
+  "Frigisphaero": {
+    "source": [
+      "animatorium"
+    ]
+  },
+  "Ignisphaero": {
+    "source": [
+      "animatorium"
+    ]
+  },
+  "Incendio": {
+    "source": [
+      "animatorium",
+      "broodofhell"
+    ]
+  },
+  "Stillstand": {
+    "source": [
+      "animatorium",
+      "klingendernacht",
+      "magie3"
+    ]
+  },
+  "Sturmwand": {
+    "source": [
+      "animatorium",
+      "broodofhell",
+      "elementarium",
+      "magie3",
+      "pandaemonium2"
+    ]
+  },
+  "Ablativum": {
+    "source": [
+      "broodofhell",
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Aeolito": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Aerofugo": {
+    "source": [
+      "broodofhell",
+      "studyroom"
+    ]
+  },
+  "Angst auslösen": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Aromatis Illusionis": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Vipernblick": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Aura der Erschöpfung": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Band und Fessel": {
+    "source": [
+      "broodofhell",
+      "riverlands"
+    ]
+  },
+  "Blitzball": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Dämonisches Vergessen": {
+    "source": [
+      "broodofhell",
+      "magie2",
+      "nekromanthaeum"
+    ]
+  },
+  "Dornenwand": {
+    "source": [
+      "broodofhell",
+      "elementarium",
+      "magie3"
+    ]
+  },
+  "Eigene Dummheit": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Eiswand": {
+    "source": [
+      "broodofhell",
+      "elementarium",
+      "magie3"
+    ]
+  },
+  "Fledermausruf": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Foramen": {
+    "source": [
+      "broodofhell",
+      "magie1",
+      "transmutarium",
+      "warringkingdoms"
+    ]
+  },
+  "Frigifaxius": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Frostleib": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Granit und Marmor": {
+    "source": [
+      "broodofhell",
+      "studyroom"
+    ]
+  },
+  "Große Verwirrung": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Halluzination": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Herzschlag ruhe": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Ignorantia": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Imperavi": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Invercano": {
+    "source": [
+      "broodofhell",
+      "magie1",
+      "studyroom",
+      "suncoast"
+    ]
+  },
+  "Krabbelnder Schrecken": {
+    "source": [
+      "broodofhell",
+      "magie2"
+    ]
+  },
+  "Krähenruf": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Oculus Astralis": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Pandaemonium": {
+    "source": [
+      "broodofhell",
+      "herbarium",
+      "magie2",
+      "pandaemonium"
+    ]
+  },
+  "Pestodem": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Plumbumbarum": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Reptilea": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Sanfter Fall": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Schlangenruf": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Seidenzunge": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Spinnenruf": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Tempus Stasis": {
+    "source": [
+      "broodofhell",
+      "magie3"
+    ]
+  },
+  "Verunsicherung": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Kornfäule": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Viehverstümmelung": {
+    "source": [
+      "broodofhell"
+    ]
+  },
+  "Analys Arkanstruktur": {
+    "source": [
+      "core"
+    ]
+  },
+  "Balsam Salabunde": {
+    "source": [
+      "core"
+    ]
+  },
+  "Disruptivo": {
+    "source": [
+      "core"
+    ]
+  },
+  "Falkenauge": {
+    "source": [
+      "core"
+    ]
+  },
+  "Gardianum": {
+    "source": [
+      "core"
+    ]
+  },
+  "Katzenaugen": {
+    "source": [
+      "core"
+    ]
+  },
+  "Nebelwand": {
+    "source": [
+      "core"
+    ]
+  },
+  "Odem Arcanum": {
+    "source": [
+      "core"
+    ]
+  },
+  "Radau": {
+    "source": [
+      "core"
+    ]
+  },
+  "Salander": {
+    "source": [
+      "core"
+    ]
+  },
+  "Silentium": {
+    "source": [
+      "core"
+    ]
+  },
+  "Spinnenlauf": {
+    "source": [
+      "core"
+    ]
+  },
+  "Spurlos": {
+    "source": [
+      "core"
+    ]
+  },
+  "Wasseratem": {
+    "source": [
+      "core"
+    ]
+  },
+  "Beiß auf Granit!": {
+    "source": [
+      "core"
+    ]
+  },
+  "Beute!": {
+    "source": [
+      "core"
+    ]
+  },
+  "Hagelschlag": {
+    "source": [
+      "core"
+    ]
+  },
+  "Pech an den Hals wünschen": {
+    "source": [
+      "core"
+    ]
+  },
+  "Pestilenz": {
+    "source": [
+      "core"
+    ]
+  },
+  "Schlaf rauben": {
+    "source": [
+      "core"
+    ]
+  },
+  "Eisenrost": {
+    "source": [
+      "desertkingdom",
+      "magie1",
+      "pandaemonium2"
+    ]
+  },
+  "Blut trinken": {
+    "source": [
+      "desertkingdom",
+      "magie3",
+      "orcs",
+      "steamingjungles"
+    ]
+  },
+  "Immunität gegen Hitze": {
+    "source": [
+      "desertkingdom",
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Steinwand": {
+    "source": [
+      "desertkingdom",
+      "elementarium",
+      "magie2"
+    ]
+  },
+  "Flammenwand": {
+    "source": [
+      "elementarium",
+      "magie2",
+      "studyroom"
+    ]
+  },
+  "Wellenwand": {
+    "source": [
+      "elementarium",
+      "magie3"
+    ]
+  },
+  "Herr über das Tierreich": {
+    "source": [
+      "havena",
+      "magie3",
+      "riverlands",
+      "sevenwindscoast",
+      "studyroom",
+      "warringkingdoms"
+    ]
+  },
+  "Sumus Elixiere": {
+    "source": [
+      "herbarium",
+      "magie3",
+      "riverlands",
+      "warringkingdoms"
+    ]
+  },
+  "Besessenheit": {
+    "source": [
+      "incorporealhorrors"
+    ]
+  },
+  "Phantasma": {
+    "source": [
+      "incorporealhorrors"
+    ]
+  },
+  "Debilitatio": {
+    "source": [
+      "incorporealhorrors",
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Auge des Limbus": {
+    "source": [
+      "magie1",
+      "pandaemonium2",
+      "studyroom"
+    ]
+  },
+  "Dämonenschild": {
+    "source": [
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Desintegratus": {
+    "source": [
+      "magie1",
+      "transmutarium"
+    ]
+  },
+  "Fischflosse": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Fortifex": {
+    "source": [
+      "magie1",
+      "studyroom",
+      "suncoast",
+      "warringkingdoms"
+    ]
+  },
+  "Schwarz und Rot": {
+    "source": [
+      "magie1"
+    ]
+  },
+  "Sensibar": {
+    "source": [
+      "magie1",
+      "studyroom",
+      "suncoast",
+      "warringkingdoms",
+      "winterwatch"
+    ]
+  },
+  "Wolfstatze": {
+    "source": [
+      "magie1",
+      "studyroom"
+    ]
+  },
+  "Ängste mehren": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Geschmackssinn nehmen": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Hunger wecken": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Todesfluch": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Holterdipolter": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Juckpulver": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Lach dich gesund": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Lachkrampf": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Meister minderer Geister": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Schelmenkleister": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Zagibu Ubigaz": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Hexenknoten": {
+    "source": [
+      "magie2",
+      "warringkingdoms"
+    ]
+  },
+  "Schleier der Unwissenheit": {
+    "source": [
+      "magie2",
+      "studyroom"
+    ]
+  },
+  "Tiere besprechen": {
+    "source": [
+      "magie2",
+      "riverlands"
+    ]
+  },
+  "Unentflammbarkeit": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Zauberpferd herbeirufen": {
+    "source": [
+      "magie2"
+    ]
+  },
+  "Durch feste Materie": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Großer Sprung": {
+    "source": [
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Kampffähigkeiten verbessern": {
+    "source": [
+      "magie3",
+      "orcs",
+      "steamingjungles"
+    ]
+  },
+  "Immunität gegen Kälte": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Schneller Angriff": {
+    "source": [
+      "magie3",
+      "orcs",
+      "steamingjungles"
+    ]
+  },
+  "Tierverwandlung": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Unbeschadeter Sturz": {
+    "source": [
+      "magie3",
+      "steamingjungles"
+    ]
+  },
+  "Unerschöpflich": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Böser Blick": {
+    "source": [
+      "magie3",
+      "riverlands"
+    ]
+  },
+  "Fesselfeld": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Nebelform": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Oktagramma": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Pestilenz erspüren": {
+    "source": [
+      "magie3",
+      "warringkingdoms"
+    ]
+  },
+  "Schimmernder Schild": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Sinesigil": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Sensattacco": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Temporalbann": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Zweifel schüren": {
+    "source": [
+      "magie3"
+    ]
+  },
+  "Zwingtanz": {
+    "source": [
+      "magie3",
+      "warringkingdoms"
+    ]
+  },
+  "Brazoraghs Hieb": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Kraft aus Schmerzen": {
+    "source": [
+      "orcs"
+    ]
+  },
+  "Einflussbann": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Gifthaut": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Humofaxius": {
+    "source": [
+      "riverlands"
+    ]
+  },
+  "Protectionis": {
+    "source": [
+      "studyroom"
+    ]
+  },
+  "Kraft des Humus": {
+    "source": [
+      "studyroom"
+    ]
+  },
+  "Minimus Reductibus": {
+    "source": [
+      "studyroom"
+    ]
+  },
+  "Warmes gefriere": {
+    "source": [
+      "studyroom"
+    ]
+  },
+  "Windhose": {
+    "source": [
+      "studyroom"
+    ]
+  },
+  "Windstille": {
+    "source": [
+      "studyroom"
+    ]
+  }
+}
